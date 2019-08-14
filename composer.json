@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Locale_Mage_community_vi_VN",
+    "type": "magento-module",
+    "license": "Academic-Free-License-(AFL)",
+    "homepage": "",
+    "description": "Vietnamese Language Pack ",
+    "authors": [
+    {
+        "name": "Magestore",
+        "email": "info@magestore.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
